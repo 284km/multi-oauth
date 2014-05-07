@@ -19,7 +19,7 @@ gem 'omniauth-hatena'
 gem 'omniauth-github'
 gem 'omniauth-twitter'
 gem 'figaro'
-gem 'haml-rails’
+gem 'haml-rails'
 
 
 # Use SCSS for stylesheets
